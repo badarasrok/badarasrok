@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rokasbadaras
+- 👋 Hi, I’m Rokas
 - 👀 I’m interested in data analytics, communicating analysis results and continuous learning
 - 🌱 I’m currently learning at Turing College's data analytics course
 - 💞️ I’m looking to collaborate on data analytics projects
