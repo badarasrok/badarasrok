@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, communicating analysis results and continuous learning
 - 🌱 I’m currently learning at Turing College's data analytics course
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me (https://www.linkedin.com/in/rokas-badaras/)
+- 📫 How to reach me (https://www.linkedin.com/in/rokas-badaras/ and badaras.rok@gmail.com)
 
 <!---
 badarasrok/badarasrok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
