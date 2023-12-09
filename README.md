@@ -8,3 +8,4 @@
 badarasrok/badarasrok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![image](https://github.com/badarasrok/badarasrok/assets/129214156/54fb208c-63c9-45b7-a705-f13229c34e35)
